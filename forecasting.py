@@ -255,7 +255,7 @@ if ts is not None:
     # ==========================================
     with tab_sim:
         st.header("🧪 Prediction Simulator: Data Penjualan Manual")
-        st.info("Gunakan tab ini untuk mencoba prediksi berdasarkan angka kustom Anda sendiri.")
+        st.info("Uji Coba Prediksi Pendapatan Penjualan")
         
         col_s1, col_s2, col_s3, col_s4 = st.columns(4)
         
